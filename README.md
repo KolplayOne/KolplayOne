@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KolplayOne</h1>
 <h3 align="center">Developer of programs and applications in languages mainly Python and C#</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Gfm1uaH_0-cAAAAd/code-its-fun-its-fun.gif">
 
 
 - 🔭 I’m currently working on **interesting projects**
